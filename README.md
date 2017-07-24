@@ -1,4 +1,4 @@
-#Git 자주 사용하는 명령어 정리
+# Git 자주 사용하는 명령어 정리
 자주 사용하는 기본적인 명령어들을 정리했습니다.
 
 -- 최근 수정이 : 2017-07-25
@@ -19,3 +19,6 @@ git log --deccorate=full --online --graph    # 커밋 로그 확인
 ```bash
 git checkout -b readme    # readme 라는 이름의 브랜치를 생성한 후, 생성된 브랜치로 체크아웃
 ```
+
+# LICENSE
+이 저장소는 WTFPL 라이센스에 의해 보호를 받습니다.
