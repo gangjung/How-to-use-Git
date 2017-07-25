@@ -28,3 +28,4 @@ git merge readme --no-ff # readme 브랜치의 내용을 자겨와서 머지함, fast-forword�
 
 # LICENSE
 이 저장소는 WTFPL 라이센스에 의해 보호를 받습니다.
+그렇다고 합니다.
