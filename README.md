@@ -136,8 +136,9 @@ remotes/origin/HEAD 는 origin의 default branch이며, origin/master 대신에 origin�
 일반적으로 "이슈ID" of "이슈ID" + "이유(내용)" 을 사용하여 생성한다.
 ```
 
-##
-```bash
+## 참고 사이트
+```bash
+http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-git-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-pull-request-%EB%B3%B4%EB%82%B4%EA%B8%B0/
 ```
 
 ##
