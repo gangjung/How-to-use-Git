@@ -30,5 +30,4 @@ git merge readme --no-ff # readme 브랜치의 내용을 자겨와서 머지함, fast-forword�
 이 저장소는 WTFPL 라이센스에 의해 보호를 받습니다.
 
 # 상대
-수정하고있습니다.
-그렇다고합니다.
+PR 연습 중
