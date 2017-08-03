@@ -107,7 +107,7 @@ pull은 내부적으로 fetch를 실행하여 최신 버전을 가져온 다음, 현재 위치한 branch에
 
 branch를 만들 때에는, 일반적인 branch 이름을 사용한다.(다음 항목 참조)
 
-git checkout -b 이름 upstream/master # git checkout -b branchA branchB, branchA에서 branchB라는 새로운 branch를 만들면서 checkout한다.
+git checkout -b 이름 upstream/master # git checkout -b branchB branchA, branchA에서 branchB라는 새로운 branch를 만들면서 checkout한다.
 ```
 
 ## upstream/master?
